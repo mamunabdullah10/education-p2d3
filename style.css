@@ -4,10 +4,11 @@
     box-sizing: border-box;
     font-family: 'roboto', sans-serif;
 }
-
-body {
-    height: 5000px;
+.containar {
+    width: 1250px;
+    margin: auto;
 }
+/* nav section strt */
 .nav{
     height: 70px;
 }
@@ -25,10 +26,9 @@ body {
     color:#46577d ;
     font-size: 18px;
 }
-.containar {
-    width: 1250px;
-    margin: auto;
-}
+/* nav section end */
+
+
 
 .header {
 
