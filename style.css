@@ -8,7 +8,23 @@
 body {
     height: 5000px;
 }
+.nav{
+    height: 70px;
+}
+.nav-section {
+    padding: 20px 200px;
+    text-align: center;
+}
+.nav-li{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
 
+.nav-section li{
+    list-style: none;
+    color:#46577d ;
+    font-size: 18px;
+}
 .containar {
     width: 1250px;
     margin: auto;
